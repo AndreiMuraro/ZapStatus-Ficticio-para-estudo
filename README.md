@@ -1,7 +1,8 @@
 # ZapStatus +
 Projeto de estudo acompanhado com a professora @MonicaHillman.
-Você pode interagir com o projeto [clicando aqui](https://andreimuraro.github.io/ZapStatatus-Ficticio-para-estudo-/ "clicando aqui").
-**Algumas coisas revisadas no projeto:**
+	Você pode interagir com o projeto [clicando aqui](https://andreimuraro.github.io/ZapStatatus-Ficticio-para-estudo-/ "clicando aqui").
+
+##### Algumas coisas revisadas no projeto:
 1.  Base de HTML5 e CSS3;
 2.  Variáveis CSS;
 3.  Inserindo imagens definindo os alt e diferenciando onde utilizar imagem e background;
